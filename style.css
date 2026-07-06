@@ -13,11 +13,13 @@
 }
 
 .botao-loja{
+    size: 10px;
     cursor: pointer;
     border-radius: 10px;
 }
 
 .botao-quem-somos{
+    size: 10px;
     cursor: pointer;
     border-radius: 10px;
 }
