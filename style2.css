@@ -6,18 +6,3 @@
     box-sizing: border-box;
     font-family: 'Noto', sans-serif;
 }
-
-.IP{
-    font-size: 100px;
-    align-items: center;
-}
-
-.botao-loja{
-    cursor: pointer;
-    border-radius: 10px;
-}
-
-.botao-quem-somos{
-    cursor: pointer;
-    border-radius: 10px;
-}

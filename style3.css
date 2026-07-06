@@ -7,17 +7,14 @@
     font-family: 'Noto', sans-serif;
 }
 
-.IP{
-    font-size: 100px;
+h1{
     align-items: center;
 }
 
-.botao-loja{
-    cursor: pointer;
-    border-radius: 10px;
+h2{
+    align-items: center;
 }
 
-.botao-quem-somos{
-    cursor: pointer;
-    border-radius: 10px;
+h3{
+    align-items: center;
 }
