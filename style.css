@@ -5,34 +5,35 @@
     margin: 0;
     box-sizing: border-box;
     font-family: 'Noto', sans-serif;
+    background-color: aqua;
 }
 
 .IP{
-    align-items: center;
-}
-
-.botao-copiar{
-    cursor: pointer;
-    background-color: red;
-    color: white;
-    border-radius: 10px;
+    text-align: center;
 }
 
 .botao-loja{
     cursor: pointer;
-    background-color: blue;
+    background-color: green;
     color: white;
     border-radius: 10px;
 }
 
 .botao-quem-somos{
     cursor: pointer;
-    background-color: purple;
+    background-color: gray;
     color: white;
     border-radius: 10px;
 }
 
-.botao-loja:hover{
+.botao-copiar{
+    cursor: pointer;
+    background-color: aqua;
+    color: white;
+    border-radius: 10px;
+}
+
+.botao-copiar:hover{
     opacity: 0.5;
 }
 
@@ -40,6 +41,6 @@
     opacity: 0.5;
 }
 
-.botao-copiar:hover{
+.botao-loja:hover{
     opacity: 0.5;
 }

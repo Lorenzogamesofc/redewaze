@@ -26,3 +26,7 @@ const test = "Teste da Loja funcionando!";
 // 3. Garante que as funções fiquem visíveis para o HTML (escopo global)
 window.copyToPastebin = copyToPastebin;
 window.test = test;
+
+function notAvaliable() {
+    alert("Ainda não disponivel")
+}
