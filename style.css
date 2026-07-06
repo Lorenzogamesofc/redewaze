@@ -13,16 +13,22 @@
 
 .botao-copiar{
     cursor: pointer;
+    background-color: red;
+    color: white;
     border-radius: 10px;
 }
 
 .botao-loja{
     cursor: pointer;
+    background-color: blue;
+    color: white;
     border-radius: 10px;
 }
 
 .botao-quem-somos{
     cursor: pointer;
+    background-color: purple;
+    color: white;
     border-radius: 10px;
 }
 
