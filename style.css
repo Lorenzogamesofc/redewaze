@@ -10,20 +10,17 @@
 
 .IP{
     font-size: 100px;
-    color: white;
+    align-items: center;
 }
 
 h1{
     align-items: center;
-    color: white;
 }
 
 h2{
     align-items: center;
-    color: white;
 }
 
 h3{
     align-items: center;
-    color: white;
 }
