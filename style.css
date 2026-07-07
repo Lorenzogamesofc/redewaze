@@ -25,17 +25,6 @@
     border-radius: 10px;
 }
 
-.botao-copiar{
-    cursor: pointer;
-    background-color: aqua;
-    color: white;
-    border-radius: 10px;
-}
-
-.botao-copiar:hover{
-    opacity: 0.5;
-}
-
 .botao-quem-somos:hover{
     opacity: 0.5;
 }
