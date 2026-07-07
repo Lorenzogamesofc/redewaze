@@ -23,6 +23,10 @@ h6{
     text-align: center;
 }
 
+.botao-copiar{
+    align-content: center;
+}
+
 button {
     cursor: pointer;
     background-color: black;
