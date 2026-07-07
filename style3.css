@@ -27,6 +27,10 @@ h6{
     align-content: center;
 }
 
+.equipe{
+    align-content: space-around;
+}
+
 button {
     cursor: pointer;
     background-color: black;
